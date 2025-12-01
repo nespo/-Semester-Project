@@ -19,8 +19,11 @@ A simple study task planner that helps students track their study tasks, priorit
 - Testing: JUnit (unit test for input validation)
 
 ## Screenshots
+![1000087679](https://github.com/user-attachments/assets/c42c07c2-3c92-4f55-ac65-07b49935ecff)
 
-(Add 2–3 images from the running app here after you build & run it.)
+![1000087681](https://github.com/user-attachments/assets/bf7fbd22-47f7-4328-885d-cd51453aa699)
+![1000087680](https://github.com/user-attachments/assets/9877307b-2dbd-4b35-a106-fa647a8dec87)
+
 
 ## How to Run
 
