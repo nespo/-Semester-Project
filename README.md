@@ -40,6 +40,4 @@ The app should install and start with the **Task list** screen.
 
 MIT
 
----
 
-**AI assistance notice**: Some parts of this code (project structure, boilerplate and comments) were written with AI assistance (ChatGPT). You have reviewed, understood and adapted the code yourself.
